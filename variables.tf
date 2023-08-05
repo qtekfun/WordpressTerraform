@@ -9,3 +9,8 @@ variable "instance_type" {
   description = "Type for EC2 Instnace"
   default     = "t2.micro"
 }
+
+variable "project" {
+  type        = string
+  description = "Name of the actual project"
+}

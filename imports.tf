@@ -1,4 +1,4 @@
 import {
   to = data.aws_ami.amazon_linux
-  id = "ami-0f34c5ae932e6f0e4"
+  id = "ami-09538990a0c4fe9be"
 }
